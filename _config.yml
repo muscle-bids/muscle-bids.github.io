@@ -17,7 +17,3 @@ repository: muscle-bids/muscle-bids
 sections:
 - label: Home
   url: /
-- label: Specification
-  url: /specs
-- label: Python package
-  url: /package
